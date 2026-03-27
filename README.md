@@ -6,6 +6,8 @@
  - İkinci tur: Farklı Top 10 öneri
    
 `Kurulum : pip install flask numpy requests`
+
 `Çalıştır: python game_recommender.py`
+
 `Tarayıcı: http://localhost:5000`
 
